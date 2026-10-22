@@ -1,0 +1,1 @@
+{"name":"designs-by-pappy","version":"1.0.0","private":true,"scripts":{"build":"node build.js"},"optionalDependencies":{"sharp":"^0.33.5"},"engines":{"node":">=18"}}
