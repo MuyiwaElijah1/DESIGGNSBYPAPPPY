@@ -1,0 +1,7 @@
+title: Example Brand Identity
+category: Branding
+year: 2025
+description: A sample project showing the folder format. Remove the underscore from the folder name to see it on the site.
+services: Logo, colour system
+challenge: Shows how a project page fills itself from this file.
+results: Delete this line and the section disappears.

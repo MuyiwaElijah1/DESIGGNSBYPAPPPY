@@ -1,0 +1,21 @@
+title: Project name
+category: Branding
+year: 2025
+client: Client name (only if you have permission)
+description: One or two lines shown on the project card.
+services: Logo design, brand guidelines, stationery
+featured: no
+order:
+link:
+overview: What the project was.
+challenge: What the client needed or the problem to solve.
+strategy: Your thinking and approach.
+direction: The look, type, colour and style choices.
+deliverables: What you delivered.
+results: Only if documented.
+
+# HOW TO USE
+# 1. Copy this whole _TEMPLATE folder and rename the copy (e.g. veeky-signatures). No underscore at the start.
+# 2. Edit this info.txt. Delete any line you have nothing for; it simply won't show.
+# 3. Put your images in the folder. cover.jpg is the main image; every other image becomes the gallery (01.jpg, 02.jpg...).
+# 4. Lines starting with # are ignored.
